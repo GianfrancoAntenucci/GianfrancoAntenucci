@@ -3,7 +3,7 @@
 ### Full-Stack Developer | Lifelong Learner | Tech Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfranco-uk/)
-![X (formerly Twitter)](https://img.shields.io/twitter/follow/:ciaffo2011)
+![X (formerly Twitter)](https://img.shields.io/twitter/follow/ciaffo2011)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://github.com/GianfrancoAntenucci)
 
 ## 🛠️ Tech Stack
