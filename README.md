@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Gianfranco, 
-a dedicated Software Developer with a passion for continuous learning and
+a dedicated Web Developer with a passion for continuous learning and
 problem-solving. My skill set includes HTML, CSS, JavaScript, Python, Bootstrap,
-SQL and DBMS. With a background in the hospitality and travel industry, I bring
-strong communication skills, adaptability and a customer-focused approach to my
-work in tech. I transitioned into software development through a Level 4 Full Stack
+SQL, React, Django. I transitioned into software development through a Level 4 Full Stack
 Web Development Bootcamp at Step8Up Academy, where I gained hands-on
 experience in building modern, responsive and user-friendly web applications. I'm
 excited to bring my skills and enthusiasm to new challenges in the tech industry.
 
 ### Full-Stack Developer | Lifelong Learner | Tech Enthusiast
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfranco-uk/)
 ![X (formerly Twitter)](https://img.shields.io/twitter/follow/ciaffo2011)
@@ -22,8 +21,9 @@ excited to bring my skills and enthusiasm to new challenges in the tech industry
 
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GianfrancoAntenucci)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoAntenucci&layout=compact)](https://github.com/GianfrancoAntenucci)
+
+![](https://komarev.com/ghpvc/?username=GianfrancoAntenucci&color=brightgreen)
 
 ## 📫 Let's Connect
 - 🔭 Currently working on: Front-end | Full-stack applications
