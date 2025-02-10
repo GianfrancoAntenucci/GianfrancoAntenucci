@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Gianfranco, 
-a dedicated Web Developer with a passion for continuous learning and
+# 👋 Hello there, welcome to my GitHub page!
+I'm Gianfranco, a dedicated Web Developer with a passion for continuous learning and
 problem-solving. My skill set includes HTML, CSS, JavaScript, Python, Bootstrap,
 SQL, React, Django. I transitioned into software development through a Level 4 Full Stack
 Web Development Bootcamp at Step8Up Academy, where I gained hands-on
