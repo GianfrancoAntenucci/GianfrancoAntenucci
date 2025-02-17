@@ -30,7 +30,7 @@ excited to bring my skills and enthusiasm to new challenges in the tech industry
 - 🌱 Learning: Serverless architectures and Web3
 - 👯 Looking to collaborate on: AI-powered applications
 - 💬 Ask me about: Full-stack development
-- 📫 How to reach me: gianfranco@icloud.com
+- 📫 How to reach me: gfa2001@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
