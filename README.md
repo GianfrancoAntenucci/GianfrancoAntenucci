@@ -1,10 +1,8 @@
 # 👋 Hello there, welcome to my GitHub page!
 I'm Gianfranco, a dedicated Web Developer with a passion for continuous learning and
 problem-solving. My skill set includes HTML, CSS, JavaScript, Python, Bootstrap,
-SQL, React, Django. I transitioned into software development through a Level 4 Full Stack
-Web Development Bootcamp at Step8Up Academy, where I gained hands-on
-experience in building modern, responsive and user-friendly web applications. I'm
-excited to bring my skills and enthusiasm to new challenges in the tech industry.
+SQL, React, Node.js, Tailwind CSS, etc.
+I'm excited to bring my skills and enthusiasm to new challenges in the tech industry.
 
 ### Full-Stack Developer | Lifelong Learner | Tech Enthusiast
 
