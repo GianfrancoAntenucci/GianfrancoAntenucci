@@ -20,7 +20,6 @@ I'm excited to bring my skills and enthusiasm to new challenges in the tech indu
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u0118fl)
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GianfrancoAntenucci)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoAntenucci&layout=compact)]
 
 ![](https://komarev.com/ghpvc/?username=GianfrancoAntenucci&color=brightgreen)
 
