@@ -1,5 +1,5 @@
 # Welcome to my GitHub page!
-I'm Gianfranco, a dedicated Web Developer with a passion for continuous learning and
+I'm Gianfranco, a dedicated Full-Stack Developer with a passion for continuous learning and
 problem-solving. My skill set includes HTML, CSS, JavaScript, Python, Bootstrap,
 SQL, React, Node.js, Tailwind CSS, etc.
 I'm excited to bring my skills and enthusiasm to new challenges in the tech industry.
@@ -20,7 +20,7 @@ I'm excited to bring my skills and enthusiasm to new challenges in the tech indu
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u0118fl)
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GianfrancoAntenucci)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoAntenucci&layout=compact)](https://github.com/GianfrancoAntenucci)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoAntenucci&layout=compact)]
 
 ![](https://komarev.com/ghpvc/?username=GianfrancoAntenucci&color=brightgreen)
 
