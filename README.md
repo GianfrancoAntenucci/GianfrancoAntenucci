@@ -7,8 +7,8 @@ I'm excited to bring my skills and enthusiasm to new challenges in the tech indu
 ### Full-Stack Developer | Lifelong Learner | Tech Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfranco-it/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ciaffo2011)
-[![GitHub](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GianfrancoAntenucci?tab=repositories)
+[![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ciaffo2011)
+[![GitHub Repo](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GianfrancoAntenucci?tab=repositories)
 
 ## Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://scrimba.com/learn-javascript-c0v?via=u0118fl)
