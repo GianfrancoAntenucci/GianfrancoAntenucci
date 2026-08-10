@@ -18,9 +18,9 @@ I'm excited to bring my skills and enthusiasm to new challenges in the tech indu
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u0118fl)
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=GianfrancoAntenucci)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdriByteStudio)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=GianfrancoAntenucci&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AdriByteStudio&color=brightgreen)
 
 ## Let's Connect
 - Currently working on: Front-end | Full-stack applications
