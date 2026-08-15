@@ -27,10 +27,10 @@ I'm excited to bring my skills and enthusiasm to new challenges in the tech indu
 - Learning: Serverless architectures and Web3
 - Looking to collaborate on: AI-powered applications
 - Ask me about: Full-stack development
-- How to reach me: gfa2001@gmail.com
+- How to reach me: adribytestudio@gmail.com
 - Pronouns: He/Him
 
 <!---
-GianfrancoAntenucci/GianfrancoAntenucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
